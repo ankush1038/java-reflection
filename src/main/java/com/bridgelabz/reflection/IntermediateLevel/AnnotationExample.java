@@ -11,7 +11,7 @@ import java.lang.annotation.Annotation;
 }
 
 // Apply annotation to a class
-@Author(name = "John Doe")
+@Author(name = "Ankush Sharma")
 class Book {
     private String title = "Reflection in Java";
 }
