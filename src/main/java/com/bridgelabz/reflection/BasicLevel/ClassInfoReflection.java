@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class ClassInfoReflection {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter the fully qualified class name (e.g., java.util.ArrayList): ");
         String className = sc.nextLine();
